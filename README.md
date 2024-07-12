@@ -36,4 +36,4 @@ const Blender
 const Photoshop
 const Figma
 ```
-# I am open for opportunities that will help me express my skills and grow 📈
+# I am open for opportunities that will help me sharpen my skills and grow 📈
