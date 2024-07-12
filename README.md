@@ -2,20 +2,37 @@
 
 
 
-## Hi there 👋
-![myposter](https://github.com/user-attachments/assets/6b2ecf2b-9263-48ca-be38-5d914d597a40)
+# Hi there 👋 My name is Precious OG
+# I am a Creative Frontend Engineer and Communication Designer
+#
+# Cool right 😎
+# This is who i am as an Engineer: 👨‍🎨
+#
+# I love creating unique *Designs* | *Graphics* | *Experience* 🎨
+# I Understand Communication Design very well 🎤🎙
+# I see the WHY, HOW, WHEN, WHERE, WHO, WHOM and all between THINGS 🔬
+# I Enjoy Creating Unique Solutions 📦
+# I Love Upskilling 🧠
+# I Love Impacting and Helping Others 💪
+# I have a Talent for Teaching and Explaning 😁
+#
+#
+# I work with
+```typescript
+const Javascript
+const Typescript
+const React.JS
+const Next.JS
+const Node.JS
+const Express.JS
+const MongoDB
+const Prismic
+const Three.JS
+const R3Fibre
+const TailwindCSS
+const Lenis
+const GSAP
+const Blender
+const Photoshop
+const Figma
 
-<!--
-**precious123-gifted/precious123-gifted** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
