@@ -22,6 +22,7 @@
 const Javascript
 const Typescript
 const React.JS
+const D3.JS
 const Next.JS
 const Node.JS
 const Express.JS
@@ -35,5 +36,8 @@ const GSAP
 const Blender
 const Photoshop
 const Figma
+...
+...
+...
 ```
 # I am open for opportunities that will help me sharpen my skills and grow 📈
